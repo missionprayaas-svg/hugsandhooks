@@ -1133,3 +1133,9 @@ footer > p {
   }
 
 }
+.placeholder-image img {
+    width: 230px;
+    height: 230px;
+    object-fit: contain;
+    display: block;
+}
