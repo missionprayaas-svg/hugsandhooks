@@ -307,19 +307,13 @@ h2 em {
 }
 
 
-.placeholder-image {
-
-  height: 350px;
-
-  background: var(--cream-dark);
-
-  display: flex;
-
-  justify-content: center;
-
-  align-items: center;
-
+.placeholder-image img {
+    width: 75%;
+    max-width: 260px;
+    height: auto;
+    object-fit: contain;
 }
+
 
 
 .placeholder-image span {
