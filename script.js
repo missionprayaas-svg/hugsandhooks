@@ -15,9 +15,23 @@ function enquire(productName) {
     alert(
         "You selected: " +
         productName +
-        "\n\nOpening Hugs & Hooks Instagram..."
+        "\n\nYou can contact Hugs & Hooks through Instagram."
     );
 
     window.open(instagram, "_blank");
+
+}
+
+
+function openWhatsApp() {
+
+    /*
+       WE WILL ADD YOUR HUGS & HOOKS
+       WHATSAPP BUSINESS NUMBER HERE LATER.
+    */
+
+    alert(
+        "Hugs & Hooks WhatsApp will be connected here."
+    );
 
 }
